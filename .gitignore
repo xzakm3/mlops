@@ -1,0 +1,6 @@
+/.dvc/config.local
+/.dvc/tmp
+/.dvc/cache
+
+/data/normalized_images
+/data/models
