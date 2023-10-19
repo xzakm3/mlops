@@ -56,8 +56,8 @@ path = os.path.abspath(pathname)
 img_width, img_height = 150, 150
 
 top_model_weights_path = 'model.h5'
-train_data_dir = os.path.join('data', 'train')
-validation_data_dir = os.path.join('data', 'validation')
+train_data_dir = os.path.join('data/cat_dog_images', 'train')
+validation_data_dir = os.path.join('data/cat_dog_images', 'validation')
 cats_train_path = os.path.join(path, train_data_dir, 'cats')
 nb_train_samples = 2 * len([name for name in os.listdir(cats_train_path)
                             if os.path.isfile(
