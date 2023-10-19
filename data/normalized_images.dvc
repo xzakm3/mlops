@@ -1,0 +1,6 @@
+outs:
+- md5: c6bebf691cb4292a474341695eac807b.dir
+  size: 975742629
+  nfiles: 922
+  hash: md5
+  path: normalized_images
