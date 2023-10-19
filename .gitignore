@@ -2,8 +2,4 @@
 /.dvc/tmp
 /.dvc/cache
 
-/data/normalized_images
-/data/models
-/data/images_with_borders
-
 .env
