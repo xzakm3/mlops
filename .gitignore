@@ -1,9 +1,14 @@
-.dvc/config.local
-.dvc/tmp
-.dvc/cache
+
 
 .venv
 
 # DVC
+.dvc/config.local
+.dvc/tmp
+.dvc/cache
+
+# data ignore for DVC
 data/data.xml
 data/prepared
+data/features
+model.pkl
