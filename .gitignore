@@ -1,3 +1,6 @@
 .dvc/config.local
 .dvc/tmp
 .dvc/cache
+
+# DVC
+data/data.xml
