@@ -2,5 +2,7 @@
 .dvc/tmp
 .dvc/cache
 
+.venv
+
 # DVC
 data/data.xml
