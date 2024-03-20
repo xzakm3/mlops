@@ -13,3 +13,4 @@ data/prepared
 data/features
 model.pkl
 eval/
+/eval
