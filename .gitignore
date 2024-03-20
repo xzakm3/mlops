@@ -12,4 +12,4 @@ data/data.xml
 data/prepared
 data/features
 model.pkl
-/eval
+eval/
